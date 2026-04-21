@@ -42,6 +42,8 @@
 		<string>plugin.py</string>
 	</array>
 	<key>UpdateFeedURL</key>
-	<string></string>
+	<string>https://raw.githubusercontent.com/ncarding/glyphs-plugin-updates/main/updates/ActionButtons/Info.plist</string>
+	<key>productPageURL</key>
+	<string>https://github.com/ncarding/ActionButtons/releases/latest</string>
 </dict>
 </plist>
