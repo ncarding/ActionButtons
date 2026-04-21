@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Action Buttons</string>
+	<key>CFBundleExecutable</key>
+	<string>plugin</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.glyphs.ActionButtons</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>ActionButtonsReleaseVersion</key>
+	<string>0.2.0-beta.1</string>
+	<key>ActionButtonsReleaseNotes</key>
+	<string>Initial beta baseline.
+
+- Unified Add/Edit flow across Filter, Script, and Action buttons.
+- In-dialog shortcut recording and one-way Use Glyphs shortcut import.
+- Script metadata-title support and stronger script shortcut sync fallback.
+- Added pytest coverage for shortcut and sync logic.</string>
+	<key>ActionButtonsTelemetryEndpoint</key>
+	<string>https://gqykoxhqsrvkjvqvbnjy.supabase.co/functions/v1/actionbuttons-ingest</string>
+	<key>ActionButtonsTelemetryApiKey</key>
+	<string>sb_publishable_zauQSNKl-wGTIwGcg13gyA_tBrubX6Q</string>
+	<key>CFBundleName</key>
+	<string>Action Buttons</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.2.0</string>
+	<key>CFBundleVersion</key>
+	<string>2</string>
+	<key>NSPrincipalClass</key>
+	<string>ActionButtons</string>
+	<key>ProductName</key>
+	<string>Action Buttons</string>
+	<key>PyMainFileNames</key>
+	<array>
+		<string>plugin.py</string>
+	</array>
+	<key>UpdateFeedURL</key>
+	<string></string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+.DS_Store
+.pytest_cache/
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+
+# Local Glyphs plugin install outputs and macOS metadata
+*.swp
+*.swo
+
+# Local/private operations files
+README-LOCAL.md
+.actionbuttons-secrets
+.actionbuttons-secrets.*
+
+# Internal/private subprojects (must never sync to public repos)
+compatibility-registry/
+supabase/
+tests/
+scripts/
+pytest.ini
+TESTING.md
+plan.md
