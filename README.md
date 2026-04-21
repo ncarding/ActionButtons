@@ -4,6 +4,15 @@ Action Buttons is a Glyphs 3 plugin that lets you save frequently used filters, 
 
 Current beta version: `0.2.0-beta.1`
 
+Public README refresh: 2026-04-21.
+
+## Disclaimer
+
+This plugin was initially built for personal use and is shared as-is. It has not yet been fully tested.
+
+Please back up your files and test on copies first. If you choose to use it, you do so at your own risk.
+
+
 ## Features
 
 - Three button types:
@@ -99,12 +108,6 @@ Each step can be:
 You can reorder steps and optionally enable `Continue on error`.
 
 Friendly heads-up: not every script and filter combination works well together, so please test new combinations on a copy or unimportant file first.
-
-## Disclaimer
-
-This plugin was built for personal use and is shared as-is.
-
-Please back up your files and test on copies first. If you choose to use it, you do so at your own risk.
 
 ## Shortcuts
 
